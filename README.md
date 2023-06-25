@@ -1,1 +1,1 @@
-# criando-transacoes-bd
+Atividade de desafio de projeto da Formação SQL Database Specialist da DIO constitui em lidar com transações para executar modificações na base de dados. Sendo assim, foi relembrado como executar uma transação. Principalmente, é preciso desabilitar o autocommit do MySQL. Caso contrário, cada instrução SQL executada será confirmada. 
